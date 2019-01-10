@@ -1,2 +1,2 @@
 # Computer-Science-Final-Project
-A review of the paper, Logical Induction, by Garrabrant et al 
+A review of the paper, Logical Induction, by Garrabrant et al.
